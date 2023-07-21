@@ -1,0 +1,20 @@
+{
+	"MI": {
+		"SERVICE LAYER URL": "http://mi-apple/mi_servicelayer",
+		"VIEWER URL": "http://mi-apple/mi",
+		"AUTOLOGON": true,
+		"USERNAME": "",
+		"_secure": {
+			"PASSWORD": ""
+		},
+		"DOMAIN": "",
+		"TIMEOUT": 600000
+	},
+	"SOURCE": {
+		"DATABASE KEY": "MI_APPLE_NONMETALS",
+		"TABLE NAME": "Adhesives"
+	},
+	"LOG LEVEL": "DEBUG",
+	"SEARCH AFTER DATETIME": "2023-05-23",
+	"OUTPUT FOLDER": ""
+}

@@ -1,0 +1,4 @@
+Configify @ git+https://github.com/Materials-Data-Management/Configify.git@v2.1.0
+GRANTA_MIScriptingToolkit @ git+https://github.com/Materials-Data-Management/GRANTA_MIScriptingToolkit@v3.1.0
+openpyxl
+types-openpyxl
